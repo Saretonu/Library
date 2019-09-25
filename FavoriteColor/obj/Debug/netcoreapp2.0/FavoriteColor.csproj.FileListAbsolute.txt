@@ -1,0 +1,13 @@
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\FavoriteColor\bin\Debug\netcoreapp2.0\FavoriteColor.deps.json
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\FavoriteColor\bin\Debug\netcoreapp2.0\FavoriteColor.runtimeconfig.json
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\FavoriteColor\bin\Debug\netcoreapp2.0\FavoriteColor.runtimeconfig.dev.json
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\FavoriteColor\bin\Debug\netcoreapp2.0\FavoriteColor.dll
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\FavoriteColor\bin\Debug\netcoreapp2.0\FavoriteColor.pdb
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\FavoriteColor\bin\Debug\netcoreapp2.0\TextFile.dll
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\FavoriteColor\bin\Debug\netcoreapp2.0\TextFile.pdb
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\FavoriteColor\obj\Debug\netcoreapp2.0\FavoriteColor.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\FavoriteColor\obj\Debug\netcoreapp2.0\FavoriteColor.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\FavoriteColor\obj\Debug\netcoreapp2.0\FavoriteColor.AssemblyInfoInputs.cache
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\FavoriteColor\obj\Debug\netcoreapp2.0\FavoriteColor.AssemblyInfo.cs
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\FavoriteColor\obj\Debug\netcoreapp2.0\FavoriteColor.dll
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\FavoriteColor\obj\Debug\netcoreapp2.0\FavoriteColor.pdb

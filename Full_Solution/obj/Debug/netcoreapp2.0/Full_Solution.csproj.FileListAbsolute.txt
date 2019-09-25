@@ -1,0 +1,11 @@
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\Full_Solution\bin\Debug\netcoreapp2.0\Full_Solution.deps.json
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\Full_Solution\bin\Debug\netcoreapp2.0\Full_Solution.runtimeconfig.json
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\Full_Solution\bin\Debug\netcoreapp2.0\Full_Solution.runtimeconfig.dev.json
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\Full_Solution\bin\Debug\netcoreapp2.0\Full_Solution.dll
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\Full_Solution\bin\Debug\netcoreapp2.0\Full_Solution.pdb
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\Full_Solution\obj\Debug\netcoreapp2.0\Full_Solution.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\Full_Solution\obj\Debug\netcoreapp2.0\Full_Solution.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\Full_Solution\obj\Debug\netcoreapp2.0\Full_Solution.AssemblyInfoInputs.cache
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\Full_Solution\obj\Debug\netcoreapp2.0\Full_Solution.AssemblyInfo.cs
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\Full_Solution\obj\Debug\netcoreapp2.0\Full_Solution.dll
+C:\Users\opilane\Desktop\FullSolution\Full_Solution\Full_Solution\obj\Debug\netcoreapp2.0\Full_Solution.pdb

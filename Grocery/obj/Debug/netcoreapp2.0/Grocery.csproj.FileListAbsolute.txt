@@ -1,0 +1,11 @@
+D:\Kool\TÖÖ\FullSolution\Full_Solution\Grocery\bin\Debug\netcoreapp2.0\Grocery.deps.json
+D:\Kool\TÖÖ\FullSolution\Full_Solution\Grocery\bin\Debug\netcoreapp2.0\Grocery.runtimeconfig.json
+D:\Kool\TÖÖ\FullSolution\Full_Solution\Grocery\bin\Debug\netcoreapp2.0\Grocery.runtimeconfig.dev.json
+D:\Kool\TÖÖ\FullSolution\Full_Solution\Grocery\bin\Debug\netcoreapp2.0\Grocery.dll
+D:\Kool\TÖÖ\FullSolution\Full_Solution\Grocery\bin\Debug\netcoreapp2.0\Grocery.pdb
+D:\Kool\TÖÖ\FullSolution\Full_Solution\Grocery\obj\Debug\netcoreapp2.0\Grocery.csprojResolveAssemblyReference.cache
+D:\Kool\TÖÖ\FullSolution\Full_Solution\Grocery\obj\Debug\netcoreapp2.0\Grocery.csproj.CoreCompileInputs.cache
+D:\Kool\TÖÖ\FullSolution\Full_Solution\Grocery\obj\Debug\netcoreapp2.0\Grocery.AssemblyInfoInputs.cache
+D:\Kool\TÖÖ\FullSolution\Full_Solution\Grocery\obj\Debug\netcoreapp2.0\Grocery.AssemblyInfo.cs
+D:\Kool\TÖÖ\FullSolution\Full_Solution\Grocery\obj\Debug\netcoreapp2.0\Grocery.dll
+D:\Kool\TÖÖ\FullSolution\Full_Solution\Grocery\obj\Debug\netcoreapp2.0\Grocery.pdb
