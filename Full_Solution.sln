@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavoriteColor", "FavoriteColor\FavoriteColor.csproj", "{4D600715-A60A-42B5-A0D9-8DB8BA10E567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFile", "TextFile\TextFile.csproj", "{599BE13F-DF9C-48C7-9284-5E6D14A63DAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tunnitööd", "Tunnitööd", "{CA851A71-579E-4948-B3D5-2BA8F68AFABE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Kontrolltööd", "Kontrolltööd", "{EBC7E4BB-97AF-4220-80CB-7DFB1EAF8C87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "Test1\Test1.csproj", "{F6B69209-91DE-4689-9683-A6B54758F997}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{2A8A6A7E-8EAE-42B9-B201-0973D20FD2CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grocery", "Grocery\Grocery.csproj", "{4D1FA9B0-F5BE-4855-AD19-77AD25BFF9AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D600715-A60A-42B5-A0D9-8DB8BA10E567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D600715-A60A-42B5-A0D9-8DB8BA10E567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D600715-A60A-42B5-A0D9-8DB8BA10E567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D600715-A60A-42B5-A0D9-8DB8BA10E567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599BE13F-DF9C-48C7-9284-5E6D14A63DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599BE13F-DF9C-48C7-9284-5E6D14A63DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599BE13F-DF9C-48C7-9284-5E6D14A63DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599BE13F-DF9C-48C7-9284-5E6D14A63DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B69209-91DE-4689-9683-A6B54758F997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B69209-91DE-4689-9683-A6B54758F997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B69209-91DE-4689-9683-A6B54758F997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B69209-91DE-4689-9683-A6B54758F997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1FA9B0-F5BE-4855-AD19-77AD25BFF9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1FA9B0-F5BE-4855-AD19-77AD25BFF9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1FA9B0-F5BE-4855-AD19-77AD25BFF9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1FA9B0-F5BE-4855-AD19-77AD25BFF9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4D600715-A60A-42B5-A0D9-8DB8BA10E567} = {CA851A71-579E-4948-B3D5-2BA8F68AFABE}
+		{599BE13F-DF9C-48C7-9284-5E6D14A63DAD} = {2A8A6A7E-8EAE-42B9-B201-0973D20FD2CB}
+		{F6B69209-91DE-4689-9683-A6B54758F997} = {EBC7E4BB-97AF-4220-80CB-7DFB1EAF8C87}
+		{4D1FA9B0-F5BE-4855-AD19-77AD25BFF9AF} = {CA851A71-579E-4948-B3D5-2BA8F68AFABE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C2AE84-0934-41E7-9CE1-B2E58F37F986}
+	EndGlobalSection
+EndGlobal
